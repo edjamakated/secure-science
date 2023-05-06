@@ -1,7 +1,9 @@
-# secure-science
+# Secure Science LIMS & ELN
+## (Originally called LabNote)
 Laboratory Information Management System (LIMS) &amp; Electronic Laboratory Notebook (ELN)
 
-Title: LabNote - Laboratory Information Management System (LIMS) & Electronic Laboratory Notebook (ELN)
+Secure Science is a Laboratory Information Management System (LIMS) & Electronic Laboratory Notebook (ELN)
+
 
 I. Overview
 LabNote is a web application designed to manage laboratory data, workflows, and electronic lab notebooks. The application will utilize an SQLite database for data storage, Tailwind CSS for the user interface, and a combination of jQuery, JavaScript, and PHP for the backend.
